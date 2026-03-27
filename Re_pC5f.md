@@ -1,20 +1,6 @@
-Table 1.1 Effect of linear (Convex) vs. nonlinear (MLP) source term parameterization.
-| Metric       | AUPRC ↑ | F1 ↑ | IoU ↑ | MSE ↓ | PSNR ↑ | SSIM ↑ | LPIPS ↓ | FVD ↓ |
-|-------------|---------|------|-------|-------|--------|--------|---------|-------|
-| **Our-Convex** (in paper) | 0.89    | 0.94 | 0.89  | 0.01  | 23.62  | 0.80   | 0.09    | 0.001 |
-| **Our-MLP** (new)    | 0.88    | 0.95 | 0.89  | 0.01  | 23.63  | 0.79   | 0.09    | 0.001 |
+<img width="1808" height="430" alt="image" src="https://github.com/user-attachments/assets/1b1aabff-f552-43f0-84ce-c628aff55879" />
+
+<img width="1805" height="74" alt="image" src="https://github.com/user-attachments/assets/d395b334-abca-47c9-8c66-5333dea8c792" />
 
 
-Table 1.2 Zero-shot and fine-tuned performance on Sim2Real-Fire dataset.
-| Metric          | AUPRC ↑        | F1 ↑           | IoU ↑          | MSE ↓          | PSNR ↑         | SSIM ↑        | LPIPS ↓       | FVD ↓        |
-|-----------------|----------------|----------------|----------------|----------------|----------------|---------------|---------------|--------------|
-| **Zero-shot**   |                |                |                |                |                |               |               |              |
-| WRF.            | 0.83           | 0.85           | 0.84           | 0.15           | --             | --            | --            | --           |
-| UTAE            | 0.84           | 0.87           | 0.81           | 0.08           | --             | --            | --            | --           |
-| Wan2.1          | 0.87           | 0.90           | 0.87           | 0.10           | 22.97          | 0.70          | 0.55          | 0.09         |
-| Our-zero        | 0.97           | 0.98           | 0.95           | 0.03           | 26.08          | 0.76          | 0.31          | 0.0008       |
-| **Fine-tuning** |                |                |                |                |                |               |               |              |
-| WRF-ft*         | 0.87 (+4.8%)   | 0.89 (+4.7%)   | 0.88 (+4.8%)   | 0.12 (-20.0%)  | --             | --            | --            | --           |
-| UTAE-ft*        | 0.90 (+7.1%)   | 0.91 (+4.6%)   | 0.85 (+4.9%)   | 0.06 (-25.0%)  | --             | --            | --            | --           |
-| Wan2.1-ft*      | 0.91 (+4.6%)   | 0.94 (+4.4%)   | 0.91 (+4.4%)   | 0.06 (-40.0%)  | 23.84 (+3.8%)  | 0.75 (+8.6%)  | 0.45 (-18.2%) | 0.05 (-44.4%)|
-| Our-ft*         | 0.98 (+1.0%)   | 0.99 (+1.0%)   | 0.97 (+2.1%)   | 0.01 (-66.7%)  | 26.78 (+2.7%)  | 0.82 (+6.6%)  | 0.26 (-16.1%) | 0.0005 (-37.5%) |
+<img width="1405" height="814" alt="image" src="https://github.com/user-attachments/assets/3449bea0-e823-4477-9ef5-eab6bdd516c2" />
