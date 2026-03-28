@@ -9,7 +9,7 @@
 <img width="1805" height="74" alt="image" src="https://github.com/user-attachments/assets/d395b334-abca-47c9-8c66-5333dea8c792" />
 
 ## R3
-<img width="1057" height="654" alt="image" src="https://github.com/user-attachments/assets/0991701b-80f8-4d5a-a4e6-c7d6cbe9bb76" />
+<img width="1271" height="785" alt="image" src="https://github.com/user-attachments/assets/5de95b2e-9666-4e1c-9fa8-8c205009078c" />
 
 <img width="1805" height="74" alt="image" src="https://github.com/user-attachments/assets/d395b334-abca-47c9-8c66-5333dea8c792" />
 
