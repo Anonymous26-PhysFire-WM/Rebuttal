@@ -11,4 +11,5 @@
 <img width="1805" height="74" alt="image" src="https://github.com/user-attachments/assets/d395b334-abca-47c9-8c66-5333dea8c792" />
 
 ## R8
-<img width="1056" height="646" alt="image" src="https://github.com/user-attachments/assets/d908b498-72ba-46ff-8929-2c71653d5ec3" />
+<img width="1277" height="779" alt="image" src="https://github.com/user-attachments/assets/e7e99330-6837-43cd-83a5-514b0ad33849" />
+
