@@ -10,8 +10,7 @@
 
 ## R2
 
-<img width="2030" height="713" alt="image" src="https://github.com/user-attachments/assets/df100cd1-6399-49f9-b57c-2b063744c89a" />
-
+<img width="1801" height="571" alt="image" src="https://github.com/user-attachments/assets/21e0d7bb-8cd2-43ec-8722-7d5ec50a90b7" />
 
 **High-resolution version:**
 [A diagram of CC-Train.pdf](https://github.com/user-attachments/files/26327875/A.diagram.of.CC-Train.pdf)
