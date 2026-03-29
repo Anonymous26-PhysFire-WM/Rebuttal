@@ -6,7 +6,7 @@
 
 ## R2
 
-<img width="956" height="450" alt="image" src="https://github.com/user-attachments/assets/275d8ae7-d821-4e5e-8a2e-e8168660ef02" />
+<img width="2021" height="622" alt="image" src="https://github.com/user-attachments/assets/28bd0653-c8a6-4b05-90a7-025f8cfd0f3f" />
 
 <img width="1805" height="74" alt="image" src="https://github.com/user-attachments/assets/d395b334-abca-47c9-8c66-5333dea8c792" />
 
