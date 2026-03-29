@@ -13,7 +13,8 @@
 <img width="1801" height="571" alt="image" src="https://github.com/user-attachments/assets/21e0d7bb-8cd2-43ec-8722-7d5ec50a90b7" />
 
 **High-resolution version:**
-[A diagram of CC-Train.pdf](https://github.com/user-attachments/files/26327875/A.diagram.of.CC-Train.pdf)
+[A diagram of CC-Train.pdf](https://github.com/user-attachments/files/26328671/A.diagram.of.CC-Train.pdf)
+
 
 <img src="https://github.com/user-attachments/assets/d395b334-abca-47c9-8c66-5333dea8c792" width="90%">
 
