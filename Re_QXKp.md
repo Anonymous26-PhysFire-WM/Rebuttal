@@ -5,12 +5,12 @@
 <img src="https://github.com/user-attachments/assets/d395b334-abca-47c9-8c66-5333dea8c792" width="85%">
 
 ## R2
-<img width="2164" height="814" alt="image" src="https://github.com/user-attachments/assets/fb9b04f9-fec3-4fab-bb72-f5f649810bbf" />
+<img width="2150" height="811" alt="image" src="https://github.com/user-attachments/assets/b59157ac-0124-43fd-a20b-d82fdf3a7b0f" />
 
 <img src="https://github.com/user-attachments/assets/d395b334-abca-47c9-8c66-5333dea8c792" width="85%">
 
 **High-resolution version:**
-[A diagram of CC-Train.pdf](https://github.com/user-attachments/files/26337464/A.diagram.of.CC-Train.pdf)
+[A diagram of CC-Train.pdf](https://github.com/user-attachments/files/26337840/A.diagram.of.CC-Train.pdf)
 
 <img src="https://github.com/user-attachments/assets/d395b334-abca-47c9-8c66-5333dea8c792" width="90%">
 
