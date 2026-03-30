@@ -21,7 +21,7 @@
 
 <img width="1721" height="256" alt="image" src="https://github.com/user-attachments/assets/2878f419-bbce-443c-877a-8199fb9dc464" />
 
-### Refer:  
+### *References:*  
 [1] Sim2Real-Fire: A Multi-modal Simulation Dataset for Forecast and Backtracking of Real-world Forest Fire. NeurIPS, 2024.  
 [2] Next Day Wildfire Spread: A Machine Learning  Dataset to Predict Wildfire Spreading From  Remote-Sensing Data. IEEE TGRS, 2022.  
 [3] Fire detection in video sequences using a generic color model. Fire safety journal, 2009.  
