@@ -1,4 +1,3 @@
 ## Table 1.2
 
-
-<img width="1821" height="1057" alt="image" src="https://github.com/user-attachments/assets/dc07f76c-95bd-494e-98d2-d75388ca1cc7" />
+<img width="1820" height="1067" alt="image" src="https://github.com/user-attachments/assets/ae5e25fe-8d2b-415a-86f9-9792e3ffab3e" />
